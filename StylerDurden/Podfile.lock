@@ -1,0 +1,20 @@
+PODS:
+  - MulticastDelegateSwift (2.1.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - MulticastDelegateSwift
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MulticastDelegateSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  MulticastDelegateSwift: 93eb077c24f50574b3f8a3f23bf71be6de6e3b41
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: ed1b6da1c8da3d8976105020d67ca970b97b686a
+
+COCOAPODS: 1.5.0

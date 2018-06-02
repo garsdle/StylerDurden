@@ -1,0 +1,6 @@
+framework module MulticastDelegateSwift {
+  umbrella header "MulticastDelegateSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
